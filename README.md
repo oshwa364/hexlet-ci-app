@@ -1,3 +1,5 @@
+[![test-and-lint](https://github.com/oshwa364/hexlet-ci-app/actions/workflows/test-and-lint.yaml/badge.svg)](https://github.com/oshwa364/hexlet-ci-app/actions/workflows/test-and-lint.yaml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
